@@ -2,7 +2,7 @@
 
 ## Links
 - GitHub: https://github.com/purdyjen/burger
-- Portfolio: https://purdyjen.github.io/Responsive-Portfolio/portfolio.html
+- Portfolio: https://purdyjen.github.io/Portfolio/portfolio.html
 - Heroku: https://arcane-sea-31245.herokuapp.com/
 
 ## Eat-Da-Burger
